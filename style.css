@@ -1,0 +1,21 @@
+html {
+    font-size: 14px;
+    width: 100%;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+ul {
+    float: left;
+    background-position: 50% 100%;
+    display: block;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 0.25em;
+}
